@@ -1,3 +1,7 @@
 # Git 练习仓库
 
 这是我学习 Git 基础操作的第一个仓库。
+
+## 已学会的命令
+
+- git init / add / commit / push / pull / clone
